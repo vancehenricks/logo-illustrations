@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.31536195"
-     inkscape:cx="337.7072"
-     inkscape:cy="819.69305"
+     inkscape:zoom="0.15768098"
+     inkscape:cx="275.87348"
+     inkscape:cy="592.96944"
      inkscape:window-width="1366"
      inkscape:window-height="743"
      inkscape:window-x="0"
@@ -81,6 +81,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="fill:#ffffff;stroke-width:0.893;stroke-linecap:round;stroke-linejoin:round"
+       id="path1"
+       cx="105.8132"
+       cy="136.79292"
+       r="82.34375" />
     <path
        id="path2"
        style="fill:#1a1a1a;fill-opacity:1;stroke-width:1.35827;stroke-linecap:round;stroke-linejoin:round"
