@@ -1,2 +1,2 @@
 # logo-illustrations
-Doodles
+Some illustrations I do from time to time
